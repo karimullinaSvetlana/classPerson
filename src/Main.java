@@ -11,10 +11,10 @@ public class Main {
         String fullname;
         int age;
         public void move(){
-            System.out.println(this.fullname + "говорит");
+            System.out.println(this.fullname + " говорит");
         }
         public void talk(){
-            System.out.println(this.fullname + "говорит");
+            System.out.println(this.fullname + " говорит");
         }
         Person(){
 
